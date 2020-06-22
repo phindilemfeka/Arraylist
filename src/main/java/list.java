@@ -4,7 +4,7 @@ import java.util.Collections; //for it's min and max methods
 class list {
     static void printGreatestValue() {
 
-        ArrayList <Integer>list = new ArrayList<>(5);
+        ArrayList <Integer>list = new ArrayList<>(7);
         list.add(5);
         list.add(9);
         list.add(1);
